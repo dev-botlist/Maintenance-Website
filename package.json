@@ -1,0 +1,27 @@
+{
+  "name": "dev-botlist.com-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ARD0NIZ/dev-botlist.com.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/ARD0NIZ/dev-botlist.com/issues"
+  },
+  "homepage": "https://github.com/ARD0NIZ/dev-botlist.com#readme",
+  "dependencies": {
+    "canvas": "^3.1.0",
+    "ejs": "^3.1.10",
+    "express": "^5.1.0",
+    "path": "^0.12.7"
+  }
+}
